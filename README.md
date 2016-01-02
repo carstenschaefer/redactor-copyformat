@@ -24,7 +24,7 @@ Include copyformat.js, RedactorCallbacksFix.js, RedactorBoldItalicFix.js and fon
 ```
 
 ##Usage
-Configuration via HTML markup:
+Configuration via javascript:
 
 ```javascript
 $(function() {
